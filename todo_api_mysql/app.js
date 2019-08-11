@@ -11,7 +11,7 @@ app.use('/api/todos',todoRoutes);
 
 
 app.get('/',(req, res)=>{
-    res.send("hellogggg");
+    // THE FROND END IS IN THE MONGODB VERSION 
 });
 
 
